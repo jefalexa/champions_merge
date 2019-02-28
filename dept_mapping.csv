@@ -1,0 +1,82 @@
+﻿departmentdesc,L4,L5,L6
+Atlanta Select,COMMERCIAL SOUTH AREA,South East Select Operation,Atlanta Select
+Atlantic Shore Territory,COMMERCIAL EAST AREA,East Territory Operation,Atlantic Shore Territory
+Bay Area Select,COMMERCIAL WEST AREA,North Coast Select Operation,Bay Area Select
+Boston Metro Territory,COMMERCIAL EAST AREA,East Territory Operation,Boston Metro Territory
+Carolinas Select,COMMERCIAL SOUTH AREA,South East Select Operation,Carolinas Select
+Carolinas Territory,COMMERCIAL SOUTH AREA,South Territory Operation,Carolinas Territory
+Central Plains Select,COMMERCIAL CENTRAL AREA,Central Select Operation,Central Plains Select
+Chicago Metro Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Chicago Metro Mid Market
+Chicago Select,COMMERCIAL CENTRAL AREA,Midwest Select Operation,Chicago Select
+Cross Roads Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Cross Roads Mid Market
+Crossroad Select,COMMERCIAL CENTRAL AREA,Central Select Operation,Crossroad Select
+CT Upstate NY Select,COMMERCIAL EAST AREA,Colonial Select Operation,CT Upstate NY Select
+Desert Select,COMMERCIAL WEST AREA,Pacific Coast Select Operation,Desert Select
+Florida Select,COMMERCIAL SOUTH AREA,South East Select Operation,Florida Select
+Florida Territory,COMMERCIAL SOUTH AREA,South Territory Operation,Florida Territory
+GA-TN Territory,COMMERCIAL SOUTH AREA,South Territory Operation,GA-TN Territory
+Great Lakes Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Great Lakes Mid Market
+Great Plains Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Great Plains Mid Market
+Greater NE Territory,COMMERCIAL EAST AREA,East Territory Operation,Greater NE Territory
+Greater Pennsylvania Territory,COMMERCIAL EAST AREA,East Territory Operation,Greater Pennsylvania Territory
+Greater Upstate Territory Region,COMMERCIAL EAST AREA,East Territory Operation,Greater Upstate Territory Region
+Gulf States Select,COMMERCIAL SOUTH AREA,South West Select Operation,Gulf States Select
+Illinois Select,COMMERCIAL CENTRAL AREA,Midwest Select Operation,Illinois Select
+Metro Philly Select,COMMERCIAL EAST AREA,Liberty Select Operation,Metro Philly Select
+Michigan Select,COMMERCIAL CENTRAL AREA,Central Select Operation,Michigan Select
+Mid Atlantic Select,COMMERCIAL EAST AREA,Colonial Select Operation,Mid Atlantic Select
+Mid_South Territory,COMMERCIAL SOUTH AREA,South Territory Operation,Mid_South Territory
+MidAtlantic Territory,COMMERCIAL EAST AREA,East Territory Operation,MidAtlantic Territory
+Midwest Select Operation,COMMERCIAL CENTRAL AREA,Midwest Select Operation,Midwest Select Operation
+Minnesota-ND Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Minnesota-ND Mid Market
+Mountain States Select,COMMERCIAL WEST AREA,Pacific Coast Select Operation,Mountain States Select
+New England Select,COMMERCIAL EAST AREA,Colonial Select Operation,New England Select
+NJ Empire Select,COMMERCIAL EAST AREA,Liberty Select Operation,NJ Empire Select
+North Coast Select Operation,COMMERCIAL WEST AREA,North Coast Select Operation,North Coast Select Operation
+North Pacific Territory,COMMERCIAL WEST AREA,West Area Territory Operation,North Pacific Territory
+NORTH TX SELECT,COMMERCIAL SOUTH AREA,South West Select Operation,NORTH TX SELECT
+North_Texas Territory,COMMERCIAL SOUTH AREA,South Territory Operation,North_Texas Territory
+Northern California Territory,COMMERCIAL WEST AREA,West Area Territory Operation,Northern California Territory
+Northwest Select,COMMERCIAL WEST AREA,North Coast Select Operation,Northwest Select
+Northwest_Territory,COMMERCIAL WEST AREA,West Area Territory Operation,Northwest_Territory
+Northwoods Select,COMMERCIAL CENTRAL AREA,Midwest Select Operation,Northwoods Select
+NY Financial Select,COMMERCIAL EAST AREA,Liberty Select Operation,NY Financial Select
+NY Metro Select,COMMERCIAL EAST AREA,Liberty Select Operation,NY Metro Select
+NYC Metro Downtown Territory,COMMERCIAL EAST AREA,East Territory Operation,NYC Metro Downtown Territory
+NYC Metro Uptown Territory,COMMERCIAL EAST AREA,East Territory Operation,NYC Metro Uptown Territory
+OHIO RIVER VALLEY SELECT,COMMERCIAL CENTRAL AREA,Central Select Operation,OHIO RIVER VALLEY SELECT
+Ohio Select,COMMERCIAL CENTRAL AREA,Central Select Operation,Ohio Select
+OKAR Select,COMMERCIAL SOUTH AREA,South West Select Operation,OKAR Select
+PA Select,COMMERCIAL EAST AREA,Liberty Select Operation,PA Select
+Pacific Coast Select,COMMERCIAL WEST AREA,Pacific Coast Select Operation,Pacific Coast Select
+Peach State Select,COMMERCIAL SOUTH AREA,South East Select Operation,Peach State Select
+Philadelphia Metro Territory,COMMERCIAL EAST AREA,East Territory Operation,Philadelphia Metro Territory
+Rockies_Territory,COMMERCIAL WEST AREA,West Area Territory Operation,Rockies_Territory
+Silicon Valley Select,COMMERCIAL WEST AREA,North Coast Select Operation,Silicon Valley Select
+Silicon Valley Territory,COMMERCIAL WEST AREA,West Area Territory Operation,Silicon Valley Territory
+SoKy Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,SoKy Mid Market
+South Coast Select,COMMERCIAL WEST AREA,Pacific Coast Select Operation,South Coast Select
+South Pacific Territory,COMMERCIAL WEST AREA,West Area Territory Operation,South Pacific Territory
+South Texas Territory,COMMERCIAL SOUTH AREA,South Territory Operation,South Texas Territory
+SOUTH TX SELECT,COMMERCIAL SOUTH AREA,South West Select Operation,SOUTH TX SELECT
+South West Select Operation,COMMERCIAL SOUTH AREA,South West Select Operation,South West Select Operation
+Southwest Territory,COMMERCIAL WEST AREA,West Area Territory Operation,Southwest Territory
+TN Select,COMMERCIAL SOUTH AREA,South East Select Operation,TN Select
+Virginia Select,COMMERCIAL EAST AREA,Colonial Select Operation,Virginia Select
+Wisc-Illinois Mid Market,COMMERCIAL CENTRAL AREA,Central Territory Operation,Wisc-Illinois Mid Market
+Wisconsin Select,COMMERCIAL CENTRAL AREA,Midwest Select Operation,Wisconsin Select
+Commercial Central Area HQ,COMMERCIAL CENTRAL AREA,#N/A,#N/A
+Commercial East Area HQ,COMMERCIAL EAST AREA,#N/A,#N/A
+Commercial South Area HQ,COMMERCIAL SOUTH AREA,#N/A,#N/A
+Commercial West Area HQ,COMMERCIAL WEST AREA,#N/A,#N/A
+BN-US Commercial-Sales,COMMERCIAL HQ,COMMERCIAL HQ,COMMERCIAL HQ
+Central Select Operation,COMMERCIAL CENTRAL AREA,Central Select Operation,#N/A
+Central Territory Operation,COMMERCIAL CENTRAL AREA,Central Territory Operation,#N/A
+Colonial Select Operation,COMMERCIAL EAST AREA,Colonial Select Operation,#N/A
+East Territory Operation,COMMERCIAL EAST AREA,East Territory Operation,#N/A
+Liberty Select Operation,COMMERCIAL EAST AREA,Liberty Select Operation,#N/A
+Pacific Coast Select Operation,COMMERCIAL WEST AREA,Pacific Coast Select Operation,#N/A
+South East Select Operation,COMMERCIAL SOUTH AREA,South East Select Operation,#N/A
+South Territory Operation,COMMERCIAL SOUTH AREA,South Territory Operation,#N/A
+West Area Territory Operation,COMMERCIAL WEST AREA,West Area Territory Operation,#N/A
+North Coast Select Operation,COMMERCIAL WEST AREA,North Coast Select Operation,#N/A
